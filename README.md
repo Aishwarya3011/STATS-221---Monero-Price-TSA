@@ -1,7 +1,7 @@
 # STATS-221---Monero-Price-TSA
 This repository contains the python notebook and R files for STATS 221 - Monero Price TSA
 
-The analysis is summarized here. Figure references are from the report.
+The analysis is summarized here. Figure references are as per the report.
 
 1 Stationarity
 
